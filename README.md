@@ -54,7 +54,7 @@ def catalogues do
     "deps/surface/priv/catalogue",
     "deps/surface_bulma/priv/catalogue",
     # External catalogues
-    Path.expand("../my_componensts/priv/catalogue"),
+    Path.expand("../my_components/priv/catalogue"),
     "/Users/johndoe/workspace/other_componensts/priv/catalogue"
   ]
 end
